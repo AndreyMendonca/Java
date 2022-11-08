@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="recursos.Triangulo"/>
+    <fullyQualifiedTypeName name="entites.Produtos"/>
+    <fullyQualifiedTypeName name="util.Calculator"/>
+    <fullyQualifiedTypeName name="util.Conversao"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="util.Conta"/>
+    <fullyQualifiedTypeName name="util.Produtos"/>
+    <fullyQualifiedTypeName name="util.Pessoas"/>
+    <fullyQualifiedTypeName name="application.Program"/>
+</qualifiedTypeNameHistroy>
